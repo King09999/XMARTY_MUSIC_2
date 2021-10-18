@@ -1,9 +1,3 @@
-
-### ᴀ ʙᴏᴛ ᴛʜᴀᴛ ᴄᴀɴ ᴘʟᴀʏ ᴍᴜꜱɪᴄ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴏɴ ᴠᴏɪᴄᴇ ᴄᴀʟʟ 
-
-<p align="center">
-  <img src="https://telegra.ph/file/3aa55e7efe0fabf05da4e.jpg">
-</p>
 # Ｈｏｗ Ｔｏ Ｈｏｓｔ
 
 # Tʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴛʜɪs Bᴏᴛ
@@ -21,7 +15,6 @@
 
 Please fork this repository don't import code
 Made with Python3
-(C) @Xmartymusic
 
 ```
 ##
