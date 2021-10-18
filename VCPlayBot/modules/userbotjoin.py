@@ -24,7 +24,7 @@ async def addchannel(client, message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "XmartyBot"
+        user.first_name = "koliXsupport"
 
     try:
         await USER.join_chat(invitelink)
@@ -41,7 +41,7 @@ async def addchannel(client, message):
         )
         return
     await message.reply_text(
-        "<b>𝐗𝐦𝐚𝐫𝐭𝐲 𝐡𝐞𝐥𝐩𝐞𝐫 𝐮𝐬𝐞𝐫𝐛𝐨𝐭 𝐣𝐨𝐢𝐧𝐞𝐝 𝐲𝐨𝐮𝐫 𝐜𝐡𝐚𝐭</b>",
+        "<b>koliXMusic 𝐡𝐞𝐥𝐩𝐞𝐫 𝐮𝐬𝐞𝐫𝐛𝐨𝐭 𝐣𝐨𝐢𝐧𝐞𝐝 𝐲𝐨𝐮𝐫 𝐜𝐡𝐚𝐭</b>",
     )
 
 
@@ -98,14 +98,14 @@ async def addcchannel(client, message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "Xmartybot"
+        user.first_name = "koliXsupport"
 
     try:
         await USER.join_chat(invitelink)
         await USER.send_message(message.chat.id, "𝐈 𝐣𝐨𝐢𝐧𝐞𝐝 𝐡𝐞𝐫𝐞 𝐚𝐬 𝐲𝐨𝐮 𝐫𝐞𝐪𝐮𝐞𝐬𝐭𝐞𝐝")
     except UserAlreadyParticipant:
         await message.reply_text(
-            "<b>𝐗𝐦𝐚𝐫𝐭𝐲 𝐡𝐞𝐥𝐩𝐞𝐫 𝐮𝐬𝐞𝐫𝐛𝐨𝐭 𝐣𝐨𝐢𝐧𝐞𝐝 𝐲𝐨𝐮𝐫 𝐜𝐡𝐚𝐧𝐧𝐞𝐥</b>",
+            "<b>KoliXMusic 𝐡𝐞𝐥𝐩𝐞𝐫 𝐮𝐬𝐞𝐫𝐛𝐨𝐭 𝐣𝐨𝐢𝐧𝐞𝐝 𝐲𝐨𝐮𝐫 𝐜𝐡𝐚𝐧𝐧𝐞𝐥</b>",
         )
         return
     except Exception as e:
@@ -116,6 +116,6 @@ async def addcchannel(client, message):
         )
         return
     await message.reply_text(
-        "<b>𝐗𝐦𝐚𝐫𝐭𝐲 𝐡𝐞𝐥𝐩𝐞𝐫 𝐮𝐬𝐞𝐫𝐛𝐨𝐭 𝐣𝐨𝐢𝐧𝐞𝐝 𝐲𝐨𝐮𝐫 𝐜𝐡𝐚𝐧𝐧𝐞𝐥</b>",
+        "<b>KoliXMusic 𝐡𝐞𝐥𝐩𝐞𝐫 𝐮𝐬𝐞𝐫𝐛𝐨𝐭 𝐣𝐨𝐢𝐧𝐞𝐝 𝐲𝐨𝐮𝐫 𝐜𝐡𝐚𝐧𝐧𝐞𝐥</b>",
     )
     
