@@ -64,7 +64,7 @@ async def start_(client: Client, message: Message):
                         "👉 οƒƒιϲιαℓ ϲнαииєℓ", url=f"https://t.me/{UPDATES_CHANNEL}")
                 ],[
                     InlineKeyboardButton(
-                        "✨ мακє υя οωи ϐοτ ✨", url="https://github.com/S780821/Xmarty_Music_2"
+                        "✨ Owner ✨", url="https://t.me/Loltage"
 
                     )
                 ]
@@ -85,10 +85,10 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "✨ Group", url=f"https://t.me/Xmarty_Support"
+                        "✨ Group", url=f"https://t.me/koliXsupport"
                     ),
                     InlineKeyboardButton(
-                        "✨ мακє υя οωи ϐοτ ✨", url="https://github.com/S780821/Xmarty_Music_2"
+                        "✨ Owner ✨", url="https://t.me/Loltage"
                     )
                 ]
             ]
